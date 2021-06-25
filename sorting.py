@@ -1,4 +1,6 @@
-﻿import pandas as pd
+#первая версия кода!
+
+import pandas as pd
 import pathlib
 from pathlib import Path
 import difflib
